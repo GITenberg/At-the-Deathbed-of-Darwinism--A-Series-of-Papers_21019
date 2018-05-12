@@ -1,0 +1,38 @@
+_repo: At-the-Deathbed-of-Darwinism--A-Series-of-Papers_21019
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: O'Harra, Edwin V.
+    gutenberg_agent_id: '9676'
+    url: http://www.gutenberg.org/2009/agents/9676
+  - agent_name: Peschges, John H.
+    gutenberg_agent_id: '9677'
+    url: http://www.gutenberg.org/2009/agents/9677
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dennert, Eberhard
+    alias: Dennert, E.
+    birthdate: 1861
+    deathdate: 1942
+    gutenberg_agent_id: '9675'
+    url: http://www.gutenberg.org/2009/agents/9675
+description: ''
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2007-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21019'
+  lccn: 04026930
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evolution'
+- !lcsh 'Natural selection'
+- !lcc 'QH'
+title: 'At the Deathbed of Darwinism: A Series of Papers'
+url: http://www.gutenberg.org/ebooks/21019
