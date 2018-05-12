@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '9675'
     url: http://www.gutenberg.org/2009/agents/9675
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21019#At-the-Deathbed-of-Darwinism--A-Series-of-Papers
 gutenberg_bookshelf: Biology
 gutenberg_issued: '2007-04-10'
 gutenberg_type: Text
